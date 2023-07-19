@@ -1,0 +1,13 @@
+/* estilo para la imagen del comentario 3 */
+img.comment-profile-pic {
+    width: 200px; /* Ancho deseado de la imagen */
+    height: 200px; /* Alto deseado de la imagen */
+    border-radius: 100%; /* Aplicar un borde redondeado para que se vea como un círculo */
+  }
+
+.custom-img {
+    width: 349px;
+    height: 346px;
+    object-fit: cover; /* Para ajustar la imagen dentro del contenedor */
+ }
+
